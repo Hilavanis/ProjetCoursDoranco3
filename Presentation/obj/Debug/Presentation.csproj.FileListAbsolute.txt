@@ -1,0 +1,15 @@
+C:\Users\stagiaire\source\repos\Exercice\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\stagiaire\source\repos\Exercice\Presentation\bin\Debug\Presentation.exe
+C:\Users\stagiaire\source\repos\Exercice\Presentation\bin\Debug\Presentation.pdb
+C:\Users\stagiaire\source\repos\Exercice\Presentation\bin\Debug\Dal.dll
+C:\Users\stagiaire\source\repos\Exercice\Presentation\bin\Debug\Dal.pdb
+C:\Users\stagiaire\source\repos\Exercice\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\stagiaire\source\repos\Exercice\Presentation\obj\Debug\Presentation.Clients.resources
+C:\Users\stagiaire\source\repos\Exercice\Presentation\obj\Debug\Presentation.Produits.resources
+C:\Users\stagiaire\source\repos\Exercice\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\stagiaire\source\repos\Exercice\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+C:\Users\stagiaire\source\repos\Exercice\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\source\repos\Exercice\Presentation\obj\Debug\Presentation.exe
+C:\Users\stagiaire\source\repos\Exercice\Presentation\obj\Debug\Presentation.pdb
+C:\Users\stagiaire\source\repos\Exercice\Presentation\bin\Debug\Bl.dll
+C:\Users\stagiaire\source\repos\Exercice\Presentation\bin\Debug\Bl.pdb

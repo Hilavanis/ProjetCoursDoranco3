@@ -1,0 +1,8 @@
+C:\Users\stagiaire\source\repos\Exercice\Bl\bin\Debug\Bl.dll
+C:\Users\stagiaire\source\repos\Exercice\Bl\bin\Debug\Bl.pdb
+C:\Users\stagiaire\source\repos\Exercice\Bl\bin\Debug\Dal.dll
+C:\Users\stagiaire\source\repos\Exercice\Bl\bin\Debug\Dal.pdb
+C:\Users\stagiaire\source\repos\Exercice\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\source\repos\Exercice\Bl\obj\Debug\Bl.dll
+C:\Users\stagiaire\source\repos\Exercice\Bl\obj\Debug\Bl.pdb
+C:\Users\stagiaire\source\repos\Exercice\Bl\obj\Debug\Bl.csprojResolveAssemblyReference.cache

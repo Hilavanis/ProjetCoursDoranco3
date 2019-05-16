@@ -1,0 +1,6 @@
+C:\Users\stagiaire\source\repos\Exercice\Dal\bin\Debug\Dal.dll
+C:\Users\stagiaire\source\repos\Exercice\Dal\bin\Debug\Dal.pdb
+C:\Users\stagiaire\source\repos\Exercice\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Users\stagiaire\source\repos\Exercice\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\source\repos\Exercice\Dal\obj\Debug\Dal.dll
+C:\Users\stagiaire\source\repos\Exercice\Dal\obj\Debug\Dal.pdb
